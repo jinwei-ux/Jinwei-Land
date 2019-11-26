@@ -1,0 +1,464 @@
+
+@font-face {
+                          font-family: "MinionPro-Regular";
+                          src: url('../fonts/MinionPro-Regular.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "MinionPro-Bold";
+                          src: url('../fonts/MinionPro-Bold.otf') format("opentype");
+                        }
+                        
+.aboutjinwei {
+  width               : 100%;
+  min-width           : 1366px;
+  height              : 100vh;
+  min-height          : 2371px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(233, 237, 239, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.aboutjinwei .headline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 293px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .headline .rectangle1 {
+  background-color    : rgba(26, 30, 35, 1.0);
+  top                 : 0px;
+  height              : 293px;
+  width               : 986px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .rectanglecopy {
+  background-color    : rgba(26, 30, 35, 1.0);
+  top                 : 1890px;
+  height              : 293px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 550px;
+  height              : 781px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .hiimjinweiius {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 630px;
+  height              : auto;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.aboutjinwei .jinweiisauxmaste {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 549px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.42px;
+  line-height         : 42.0px;
+}
+.aboutjinwei .jinweilinhotmailc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2293px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 709px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 24.0px;
+}
+.aboutjinwei .wannaaskmesomethi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2293px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 24.0px;
+}
+.aboutjinwei .about7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1637px;
+  height              : 253px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1332px;
+  height              : 305px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 914px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1637px;
+  height              : 253px;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 985px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1332px;
+  height              : 305px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 257px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 767px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 257px;
+  width               : 387px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1331px;
+  height              : 306px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 609px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .about8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1637px;
+  height              : 253px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .img0215 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 257px;
+  width               : 343px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1023px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .quote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1962px;
+  height              : 161px;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 530px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .quote .getcomfortablebein {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 667px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.43px;
+  line-height         : 38.0px;
+}
+.aboutjinwei .quote .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 2px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .quote .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 133px;
+  height              : 2px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutjinwei .myrecentwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 311px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(26, 30, 35, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.aboutjinwei .previouswork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 385px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(26, 30, 35, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.aboutjinwei .aboutjinwei1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 459px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 41, 41, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.aboutjinwei .jinweiicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 121px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

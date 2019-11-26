@@ -1,0 +1,2020 @@
+
+@font-face {
+                          font-family: "MinionPro-Regular";
+                          src: url('../fonts/MinionPro-Regular.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "MinionPro-Bold";
+                          src: url('../fonts/MinionPro-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "MinionPro-It";
+                          src: url('../fonts/MinionPro-It.otf') format("opentype");
+                        }
+                        
+.myrecentwork {
+  width               : 100%;
+  min-width           : 1366px;
+  height              : 100vh;
+  min-height          : 24045px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(233, 237, 239, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.myrecentwork .page13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22915px;
+  height              : 940px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page13 .rectanglecopy {
+  background-color    : rgba(244, 246, 247, 1.0);
+  top                 : 0px;
+  height              : 940px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page13 .whatilearned {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 107px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page13 .itwasmyfirst2bp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .img20190224103419 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22422px;
+  height              : 493px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21667px;
+  height              : 755px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page12 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 755px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page12 .theimpact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page12 .wefinallylaunched {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15786px;
+  height              : 5881px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 5326px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack124 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4826px;
+  height              : 447px;
+  width               : 254px;
+  position            : absolute;
+  margin              : 0;
+  left                : 644px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4826px;
+  height              : 447px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 366px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack122 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4826px;
+  height              : 447px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .wechatimg3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3563px;
+  height              : 986px;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 201px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.myrecentwork .page11 .wechatimage20190305174452 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5326px;
+  height              : 555px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .crediticyhu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5852px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 823px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.45px;
+  line-height         : 29.0px;
+}
+.myrecentwork .page11 .pack910 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2847px;
+  height              : 316px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack99 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2846px;
+  height              : 317px;
+  width               : 501px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack98 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2492px;
+  height              : 316px;
+  width               : 499px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack97 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2492px;
+  height              : 316px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 671px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .bringeverythingto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page11 .detaileddesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.01px;
+  line-height         : 20.0px;
+}
+.myrecentwork .page11 .weusedallthewmc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 .wemadehifiprotot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1185px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 .themostchallenging {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2023px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 .thecompatibilityam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3213px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 .theinterfaceonthi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4474px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page11 .pack96 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1651px;
+  height              : 308px;
+  width               : 493px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack95 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1343px;
+  height              : 308px;
+  width               : 493px;
+  position            : absolute;
+  margin              : 0;
+  left                : 493px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack94 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1651px;
+  height              : 308px;
+  width               : 493px;
+  position            : absolute;
+  margin              : 0;
+  left                : 493px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack93 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1343px;
+  height              : 308px;
+  width               : 493px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 767px;
+  height              : 369px;
+  width               : 700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page11 .pack91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 398px;
+  height              : 369px;
+  width               : 700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12406px;
+  height              : 3380px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1718px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1718px;
+  height              : 1662px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .pack7singlepage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1371px;
+  height              : 347px;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .pack7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2740px;
+  height              : 613px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .pack6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 395px;
+  height              : 517px;
+  width               : 844px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page10 .widgetflowchart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 596px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.48px;
+  line-height         : 47.0px;
+}
+.myrecentwork .page10 .amagicalwidgetu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page10 .throughtheentrance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page10 .theworkflowinclude {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 956px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page10 .whenusersuploadph {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1792px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8647px;
+  height              : 3759px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 3759px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3257px;
+  height              : 502px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2655px;
+  height              : 202px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack521 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2367px;
+  height              : 288px;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 288px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack522 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1360px;
+  height              : 325px;
+  width               : 455px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1682px;
+  height              : 355px;
+  width               : 455px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .pack5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1360px;
+  height              : 677px;
+  width               : 531px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .wemadelofiprotot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 896px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page9 .atlastweputthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2097px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page9 .weusedthepowerof {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2917px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page9 .pack4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 692px;
+  height              : 151px;
+  width               : 799px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page9 .scopeofthedesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page9 .theframework {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.01px;
+  line-height         : 20.0px;
+}
+.myrecentwork .page9 .therearetwosteps {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6810px;
+  height              : 1837px;
+  width               : 987px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .rectangle {
+  background-color    : rgba(244, 246, 247, 1.0);
+  top                 : 0px;
+  height              : 1837px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .n1926 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1766px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 898px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.22px;
+  line-height         : 22.0px;
+}
+.myrecentwork .page8 .differentusersbase {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1494px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.22px;
+  line-height         : 29.0px;
+}
+.myrecentwork .page8 .differentusersbase .span1 {
+  
+}
+.myrecentwork .page8 .differentusersbase .span2 {
+  
+}
+.myrecentwork .page8 .peoplehatewaiting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1494px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 351px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.22px;
+  line-height         : 29.0px;
+}
+.myrecentwork .page8 .foridentificationu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1494px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.22px;
+  line-height         : 29.0px;
+}
+.myrecentwork .page8 .pack32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1257px;
+  height              : 204px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 329px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .pack32 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 204px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .pack32 .pack321 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 135px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .pack33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1257px;
+  height              : 204px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .pack34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1257px;
+  height              : 204px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 658px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .pack31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 416px;
+  height              : 523px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page8 .whatcustomerssay {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : auto;
+  width               : 707px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page8 .thediscovery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.01px;
+  line-height         : 20.0px;
+}
+.myrecentwork .page8 .weconductedcustome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 223px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page8 .accordingtotheres {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 986px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4698px;
+  height              : 2112px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page7 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 2112px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page7 .simplicityprivacy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page7 .theapporach {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.01px;
+  line-height         : 20.0px;
+}
+.myrecentwork .page7 .facingamoresevere {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page7 .comparingtothetra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1035px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page7 .pack2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 496px;
+  width               : 886px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3093px;
+  height              : 1277px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 .rectangle {
+  background-color    : rgba(244, 246, 247, 1.0);
+  top                 : 0px;
+  height              : 1277px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 .theoldwayofcheck {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 690px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page6 .thechallenge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 86px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page6 .since2016thewmc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 191px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page6 .quote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 544px;
+  height              : 77px;
+  width               : 837px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 .quote .buildafastercheck {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(174, 12, 46, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.23px;
+  line-height         : 30.0px;
+}
+.myrecentwork .page6 .quote .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 .quote .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 2px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page6 .quote .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(174, 12, 46, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 47.0px;
+}
+.myrecentwork .page6 .quote .label2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 821px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(174, 12, 46, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 47.0px;
+}
+.myrecentwork .page6 .aventrilogohorizontalred2x3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1064px;
+  height              : 153px;
+  width               : 293px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2466px;
+  height              : 627px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page5 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 627px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page5 .customerinsightsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.myrecentwork .page5 .customerinsightsi .span1 {
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .customerinsightsi .span2 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .customerinsightsi .span3 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .planningcoordinat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.myrecentwork .page5 .planningcoordinat .span1 {
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .planningcoordinat .span2 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .planningcoordinat .span3 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .experiencestrategy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 525px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.myrecentwork .page5 .experiencestrategy .span1 {
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .experiencestrategy .span2 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .experiencestrategy .span3 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .leadershipiledthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 525px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.myrecentwork .page5 .leadershipiledthe .span1 {
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .leadershipiledthe .span2 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .page5 .leadershipiledthe .span3 {
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  line-height         : 31.0px;
+}
+.myrecentwork .checkinbadging {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4370px;
+  height              : 328px;
+  width               : 492px;
+  position            : absolute;
+  margin              : 0;
+  left                : 874px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .mwcitn2019392 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4370px;
+  height              : 328px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1887px;
+  height              : 579px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page4 .exhibition2featuredwide2x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 579px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page4 .crediticyhu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 550px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 823px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.45px;
+  line-height         : 29.0px;
+}
+.myrecentwork .page3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1155px;
+  height              : 732px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page3 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 732px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page3 .myrole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.31px;
+  line-height         : 41.0px;
+}
+.myrecentwork .page3 .iledthedesignof {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 615px;
+  height              : 540px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page2 .image6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 540px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page2 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : 27px;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 615px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page1 .rectangle {
+  background-color    : rgba(26, 30, 35, 1.0);
+  top                 : 0px;
+  height              : 615px;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.myrecentwork .page1 .tocomplywiththen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 432px;
+  height              : auto;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-It", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(124, 124, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.18px;
+  line-height         : 23.0px;
+}
+.myrecentwork .page1 .in2019morethan1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 217px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.28px;
+  line-height         : 35.0px;
+}
+.myrecentwork .page1 .gsmamwcsummit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : 648px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AlNile", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.45px;
+  line-height         : 69.0px;
+}
+.myrecentwork .myrecentwork1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 311px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 40, 40, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.myrecentwork .previouswork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 385px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(26, 30, 35, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.myrecentwork .aboutjinwei {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 459px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IowanOldStyle-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(26, 30, 35, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.8px;
+  line-height         : 29.0px;
+}
+.myrecentwork .creditaventri {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4669px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1191px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.45px;
+  line-height         : 29.0px;
+}
+.myrecentwork .jinweilinhotmailc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23967px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 709px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 24.0px;
+}
+.myrecentwork .wannaaskmesomethi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23967px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "MinionPro-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(37, 43, 51, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 24.0px;
+}
+.myrecentwork .jinweiicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 121px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
